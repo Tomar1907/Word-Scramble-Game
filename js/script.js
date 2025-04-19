@@ -1,7 +1,7 @@
 const wordText = document.querySelector(".word");
 const hintText = document.querySelector(".hint span");
-const inputField = document.querySelector("input")
-const timeText = document.querySelector(".time b")
+const inputField = document.querySelector("input");
+const timeText = document.querySelector(".time b");
 const refreshBtn = document.querySelector(".refresh-word")
 const checkBtn = document.querySelector(".check-word")
 
